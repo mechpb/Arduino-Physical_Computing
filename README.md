@@ -1,7 +1,7 @@
 # Arduino-Physical_Computing
 Physical Computing - Automatisieren mit dem Arduino - Dateien zu den Beispielen (*.ino)
 
-Hier finden Sie Dateien zu den Beispielen, die im Buch beschrieben sind. 
+Hier finden Sie Dateien zu den Beispielen, die im Buch beschrieben sind. Die Gerber Files, um die Platine zu erzeugen, sind ebenfalls vorhanden.
 
 Physical Computing 
 ------------------
